@@ -118,5 +118,8 @@ The insights derived from this analysis can help airlines optimize pricing strat
 **Mayank Kumar**  
 Data Analyst  
 Skilled in Python, SQL, Power BI & Data Visualization  
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)  
+💻 [GitHub](https://github.com/mayankkumar790)  
+📧 [Mail](mailto:mayankkumar21july@gmail.com)
 
 ---
