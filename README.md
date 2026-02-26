@@ -88,7 +88,6 @@ Each visualization highlights important pricing behavior and demand trends.
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
-- Feature Engineering
 - Data Visualization
 - Business Insight Generation
 - Statistical Analysis
@@ -117,7 +116,7 @@ The insights derived from this analysis can help airlines optimize pricing strat
 ## 👨‍💻 Author
 
 **Mayank Kumar**  
-Aspiring Data Analyst  
+Data Analyst  
 Skilled in Python, SQL, Power BI & Data Visualization  
 
 ---
